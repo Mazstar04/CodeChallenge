@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Code Challenge\Median\bin\Debug\net5.0\Median.exe
+C:\Users\HP\Desktop\Code Challenge\Median\bin\Debug\net5.0\Median.deps.json
+C:\Users\HP\Desktop\Code Challenge\Median\bin\Debug\net5.0\Median.runtimeconfig.json
+C:\Users\HP\Desktop\Code Challenge\Median\bin\Debug\net5.0\Median.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Code Challenge\Median\bin\Debug\net5.0\Median.dll
+C:\Users\HP\Desktop\Code Challenge\Median\bin\Debug\net5.0\ref\Median.dll
+C:\Users\HP\Desktop\Code Challenge\Median\bin\Debug\net5.0\Median.pdb
+C:\Users\HP\Desktop\Code Challenge\Median\obj\Debug\net5.0\Median.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Code Challenge\Median\obj\Debug\net5.0\Median.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code Challenge\Median\obj\Debug\net5.0\Median.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code Challenge\Median\obj\Debug\net5.0\Median.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code Challenge\Median\obj\Debug\net5.0\Median.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code Challenge\Median\obj\Debug\net5.0\Median.dll
+C:\Users\HP\Desktop\Code Challenge\Median\obj\Debug\net5.0\ref\Median.dll
+C:\Users\HP\Desktop\Code Challenge\Median\obj\Debug\net5.0\Median.pdb
+C:\Users\HP\Desktop\Code Challenge\Median\obj\Debug\net5.0\Median.genruntimeconfig.cache

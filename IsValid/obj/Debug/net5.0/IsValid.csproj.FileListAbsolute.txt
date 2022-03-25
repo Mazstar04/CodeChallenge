@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Code Challenge\IsValid\bin\Debug\net5.0\IsValid.exe
+C:\Users\HP\Desktop\Code Challenge\IsValid\bin\Debug\net5.0\IsValid.deps.json
+C:\Users\HP\Desktop\Code Challenge\IsValid\bin\Debug\net5.0\IsValid.runtimeconfig.json
+C:\Users\HP\Desktop\Code Challenge\IsValid\bin\Debug\net5.0\IsValid.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Code Challenge\IsValid\bin\Debug\net5.0\IsValid.dll
+C:\Users\HP\Desktop\Code Challenge\IsValid\bin\Debug\net5.0\ref\IsValid.dll
+C:\Users\HP\Desktop\Code Challenge\IsValid\bin\Debug\net5.0\IsValid.pdb
+C:\Users\HP\Desktop\Code Challenge\IsValid\obj\Debug\net5.0\IsValid.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Code Challenge\IsValid\obj\Debug\net5.0\IsValid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code Challenge\IsValid\obj\Debug\net5.0\IsValid.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code Challenge\IsValid\obj\Debug\net5.0\IsValid.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code Challenge\IsValid\obj\Debug\net5.0\IsValid.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code Challenge\IsValid\obj\Debug\net5.0\IsValid.dll
+C:\Users\HP\Desktop\Code Challenge\IsValid\obj\Debug\net5.0\ref\IsValid.dll
+C:\Users\HP\Desktop\Code Challenge\IsValid\obj\Debug\net5.0\IsValid.pdb
+C:\Users\HP\Desktop\Code Challenge\IsValid\obj\Debug\net5.0\IsValid.genruntimeconfig.cache
